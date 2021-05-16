@@ -47,7 +47,7 @@ Once the repository has been cloned, navigate to the to the application director
 * Git
 ```
 
-    ## License
+## License
 * [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/saoud/csharp-TDD-template/blob/main/LICENSE)
 * Copyright 2021 Saoud Rana
 ## Contact
